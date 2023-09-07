@@ -5,7 +5,7 @@ Kullanocıdan aldığı yazıyı sürekli olarak yazıp karlı tarafa gönderrn 
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-spammer
+git clone https://github.com/morbius-os/m-spammer
 
 cd m-spammer
 
